@@ -1,0 +1,28 @@
+name: 1ds.com
+favicon: null
+layout_spectrum: 0.546908559743315
+typography_spectrum: 0.6921238384675235
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3236194937489927
+  lightness: 0.48925385531038046
+  saturation: 0.019423364894464612
+  rhythmicContrast: 0.8003592328168452
+purpose: []
